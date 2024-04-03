@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Rubik+Scribble&display=swap');
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    border-color: white;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-family: "Lobster", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text {
+    color: white;
+}
+
+img {
+    max-width: 80vh;
+    border-radius: 10%;
+}
+
